@@ -12,14 +12,18 @@ header: PSTAT 228
 <!-- _class: lead -->
 <!-- _header: '' -->
 
-# **Mapping trajectories and flows** :rocket: 
+# **Mapping trajectories and flows** :sunrise_over_mountains: 
 
 ### Facilitating a human-centered approach to data-driven movement analytics
 
-Evgeny Noi, noi@ucsb.edu
+Somayeh Dodge & Evgeny Noi, noi@ucsb.edu
 *UC Santa Barbara, Department of Geography*
 
 ![](logo1.png)
+
+---
+# 
+Dodge, S. & Noi, E. (in press). Mapping trajectories and flows: Facilitating a human-centered approach to data-driven movement analytics. Cartography and Geographic Information Science (CaGIS). 
 
 ---
 # Problem 
