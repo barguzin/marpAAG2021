@@ -26,17 +26,24 @@ Somayeh Dodge & Evgeny Noi, noi@ucsb.edu
 Dodge, S. & Noi, E. (in press). Mapping trajectories and flows: Facilitating a human-centered approach to data-driven movement analytics. Cartography and Geographic Information Science (CaGIS). 
 
 ---
-# Problem 
-* Many data companies started publishing various indicators of mobility to help study the effects of COVID on day-to-day life
-* Mobility data can help us understand the effects of **non-pharmaceutical interventions** (including the effectiveness of stay-at-home orders)
-* Is mobility data ~~good~~ uniform across data sources?
-* Can we utilize the concepts/tools learned in class to compare different data sources across space and time?
+# Background
+* The evolution of location-aware technologies (LATs) including Global Positioning Systems (GPS), ubiquitous computing, and big mobility data culminated in the development of an integrated science of movement (Demsar et al., 2021; Dodge, 2021; Miller et al.,
+2019).
+* This emerging field is interdisciplinary (human mobility, animal ecology)
 
+---
+# Research Objectives
+* Review techniques used for mapping and visual analysis of movement **trajectories** and **flows** 
+* Assess how these techniques aid human quantitative and visual reasoning for knowledge discovery
+
+---
+# Necessary Terminology 
+* general 
 
 --- 
 <!-- _class: lead -->
 <!-- _header: -->
-# Data
+# Reviewed Corpora
 # :floppy_disk:
 
 ---
